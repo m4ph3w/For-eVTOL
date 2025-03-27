@@ -1,3 +1,4 @@
+set with effort from aidan and kai
 https://dronesafetymap.com/#loc=51.3588639,-0.3908838,13.352914212780224
 from network, we get geojson file
 https://geojson.io/
