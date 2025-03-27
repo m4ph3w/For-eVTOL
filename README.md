@@ -5,3 +5,4 @@ convert
 and improt to earth
 
 for a*, emergency landing, with set parameters, say for emergency decend path, consideration of high building and hard restricted zone, and zones trying to avoid (but can pass through, e.g. ecosystem etc.)
+penalty zone is 1.3 
